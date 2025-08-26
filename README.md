@@ -1,4 +1,4 @@
-# 🔄 Swap Data Recorder
+# 🔄 API Data Recorder
 
 Tool untuk merekam API dari berbagai web
 
